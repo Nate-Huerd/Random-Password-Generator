@@ -11,4 +11,5 @@
 *The HTML and CSS code were provided to us, so we had to write the JavaScript code ourselves with little given starter code
 
 ##Result
+
 *The password generator does not work quite yet. The code is there to initiate the prompts, but the password is not generated at the end. Further learning and code application will be needed to complete this challenge. 
